@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OpcInspect": {
+      "commandName": "Project",
+      "commandLineArgs": "--opc-port 4840 --listen-port 9085 --interface 7 --verbose"
+    }
+  }
+}
