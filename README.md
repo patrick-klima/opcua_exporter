@@ -15,3 +15,6 @@ where {ID} is the network interface id from step 1.
 | --interface | Network interface to listen to |
 | --listen-port | The port where metrics are exposed |
 | --verbose | Display additional information |
+  
+  
+![Alt text](/Screenshots/opc_exporter.PNG "screenshot")
